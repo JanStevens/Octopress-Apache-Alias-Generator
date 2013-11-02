@@ -31,9 +31,9 @@ Example Post Configuration:
 ### htaccess
 An htaccess will automatically be generated with the correct redirections.
 In case you would like to add your own htaccess rules (e.g page caching, a good template can be found [here](https://github.com/h5bp/html5-boilerplate/blob/master/.htaccess))
-add a "_htaccess" file to your source directory with your rules/setup. The plugin will then append the redirect rules at the bottom of the file.
+add a **_htaccess** file to your source directory with your rules/setup. The plugin will then append the redirect rules at the bottom of the file.
     
-Make sure you dont have a ".htaccess" file in your source folder (when using Octopress) or sites folder (when using Jekyll), rename it to _htaccess.
+Make sure you **dont** have a **.htaccess** file in your source folder (when using Octopress) or sites folder (when using Jekyll), rename it to **_htaccess**.
 
 ### Bugs
-If there are any bugs or problems, leave a report on github.
+If there are any bugs or problems, leave a report on github. More information at http://www.fritz-hut.com

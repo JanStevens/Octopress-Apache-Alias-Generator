@@ -1,7 +1,8 @@
-Apache Alias Generator for Posts/Pages
+Octopress Apache Alias Generator
 ======================================
 
-A Jekyll plugin for generating redirect rewrites in htaccess for post and pages. The aliases are set in the YAML Front Matter.
+A Jekyll/Octopress plugin for generating redirect rewrites in htaccess for post and pages.
+The aliases are set in the YAML Front Matter.
 
 Originally idea came from the following plugin: [jekyll_alias_generator](https://github.com/tsmango/jekyll_alias_generator)
 It generates folders and files for redirects, if you use apache then you can easly do this in htaccess (and this keeps your public folder a bit cleaner).

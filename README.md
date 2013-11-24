@@ -38,3 +38,6 @@ Make sure you **dont** have a **.htaccess** file in your source folder (when usi
 
 ### Bugs
 If there are any bugs or problems, leave a report on github. More information at http://www.fritz-hut.com
+
+## Information
+For more information visit my blog: [http://www.fritz-hut.com](http://www.fritz-hut.com/2013/11/05/octopress-htaccess-alias-plugin/)
